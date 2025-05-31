@@ -1,0 +1,15 @@
+All the Features:
+
+1. Age: age of the patient [years]
+2. Sex: sex of the patient [1: Male, 0: Female]
+3. ChestPainType: chest pain type [1: Typical Angina, 2: Atypical Angina, 3: Non-Anginal Pain, 4: Asymptomatic]
+4. RestingBP: resting blood pressure [mm Hg]
+5. Cholesterol: serum cholesterol [mm/dl]
+6. FastingBS: fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
+7. RestingECG: resting electrocardiogram results [1: Normal, 2: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), 3: showing probable or definite left ventricular hypertrophy by Estes' criteria]
+8. MaxHR: maximum heart rate achieved [Numeric value between 60 and 202]
+9. ExerciseAngina: exercise-induced angina [1: Yes, 0: No]
+10. Oldpeak: oldpeak = ST [Numeric value measured in depression]
+11. ST_Slope: the slope of the peak exercise ST segment [2: upsloping, 1: flat, 0: downsloping]
+12. HeartDisease: output class [1: heart disease, -1: Normal]
+
